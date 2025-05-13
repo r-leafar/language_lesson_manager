@@ -1,0 +1,5 @@
+server.port=8080
+spring.application.name=api
+spring.datasource.url=jdbc:postgresql://<host>:<port>/<db_name>
+spring.datasource.username=<db_user>
+spring.datasource.password=<db_password>
